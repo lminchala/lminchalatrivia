@@ -16,15 +16,15 @@ In this unit, coders will work in groups to build a project using HTML, CSS, Rea
 - [x] In `<App />`, add a variable to set the current question number to 0.
 - [x] Replace "Question goes here" with the `question.text` field found in data for the first question.
   - [x] HINT: Use the question number variable you just wrote.
-- [ ] BONUS: Add styling to your app.
+- [x] BONUS: Add styling to your app.
 
 >![Day 1.0 goal](https://i.imgur.com/eTZAXGk.png)
 
 ### Goal 2: Render a "Next Question" button on the screen.
 
-- [ ] In App.jsx, create a NextQuestion component.
-- [ ] Write the JSX to display a button for the user to click for the next question. (It will not work yet.)
-- [ ] Render an instance of `<NextQuestion />` inside of `<App />`.
+- [x] In App.jsx, create a NextQuestion component.
+- [x] Write the JSX to display a button for the user to click for the next question. (It will not work yet.)
+- [x] Render an instance of `<NextQuestion />` inside of `<App />`.
 
 >![Day 1.5 goal](https://i.imgur.com/o4MzPjL.png)
 
