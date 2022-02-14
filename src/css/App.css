@@ -1,10 +1,12 @@
 body {
   margin: 0;
   padding: 0;
+  color: rgb(239,83,153);
 }
 
 .app {
   text-align: center;
 }
+
 
 
